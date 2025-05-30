@@ -1,7 +1,5 @@
 # 🖥️ Single-Cycle MIPS Processor (VHDL)
 
-![Processor Design](images/processor_diagram.png)
-
 > A VHDL-based single-cycle MIPS processor built for CprE 381. It supports a basic instruction set and runs each instruction in one clock cycle.
 
 ---
@@ -23,7 +21,7 @@ It uses modular design and testbenches to verify correctness.
 
 Below is a diagram of the processor (replace with your own image):
 
-![Processor Diagram](images/processor_diagram.png)
+![Processor Diagram](processor_diagram.jpg)
 
 ---
 
