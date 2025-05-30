@@ -41,8 +41,9 @@ Below is a diagram of the processor (replace with your own image):
 .
 ├── src/               # VHDL source files
 ├── test/              # Testbench files
-├── images/            # Diagram image goes here
-└── README.md          # This file
+├── mips           
+|--- Proj1_report 
+|--- Proj1_control_signals(1)
 ```
 
 ---
